@@ -23,5 +23,4 @@
   :depends-on (:drakma :ironclad :cxml :cl-base64 :split-sequence :cl-ppcre 
                :babel :darts.lib.trivia)
   :components ((:file "package")
-			   (:file "utilities")
 			   (:file "requests")))
